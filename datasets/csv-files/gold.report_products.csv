@@ -1,0 +1,131 @@
+product_id,product_name,category,sub_category,product_cost,total_sales,total_orders,total_customers,total_quantity,first_sale_date,last_sale_date,recency,product_segment,life_span,avg_selling_price,avg_order_revenue,avg_monthly_revenue
+214,Sport-100 Helmet- Red,Accessories,Helmets,13,78050,384,2147,2230,2012-12-28,2014-01-28,134,High Performer,13,35,203,6003
+217,Sport-100 Helmet- Black,Accessories,Helmets,13,72975,387,2024,2085,2012-12-28,2014-01-28,134,High Performer,13,35,188,5613
+222,Sport-100 Helmet- Blue,Accessories,Helmets,13,74375,389,2049,2125,2012-12-28,2014-01-28,134,High Performer,13,35,191,5721
+225,AWC Logo Cap,Clothing,Caps,7,19710,392,2132,2190,2012-12-29,2014-01-28,134,Mid-Range Performer,13,9,50,1516
+228,Long-Sleeve Logo Jersey- S,Clothing,Jerseys,38,21450,248,426,429,2013-01-02,2014-01-28,134,Mid-Range Performer,12,50,86,1787
+231,Long-Sleeve Logo Jersey- M,Clothing,Jerseys,38,22100,257,436,442,2012-12-28,2014-01-28,134,Mid-Range Performer,13,50,85,1700
+234,Long-Sleeve Logo Jersey- L,Clothing,Jerseys,38,22650,254,449,453,2012-12-28,2014-01-28,134,Mid-Range Performer,13,50,89,1742
+237,Long-Sleeve Logo Jersey- XL,Clothing,Jerseys,38,20700,255,409,414,2013-01-07,2014-01-28,134,Mid-Range Performer,12,50,81,1725
+310,Road-150 Red- 62,Bikes,Road Bikes,2171,1202208,213,336,336,2010-12-29,2011-12-28,159,High Performer,12,3578,5644,100184
+311,Road-150 Red- 44,Bikes,Road Bikes,2171,1005418,203,281,281,2010-12-30,2011-12-28,159,High Performer,12,3578,4952,83784
+312,Road-150 Red- 48,Bikes,Road Bikes,2171,1205786,224,337,337,2010-12-31,2011-12-28,159,High Performer,12,3578,5382,100482
+313,Road-150 Red- 52,Bikes,Road Bikes,2171,1080556,204,302,302,2010-12-31,2011-12-27,159,High Performer,12,3578,5296,90046
+314,Road-150 Red- 56,Bikes,Road Bikes,2171,1055510,198,295,295,2010-12-31,2011-12-27,159,High Performer,12,3578,5330,87959
+321,Road-650 Red- 58,Bikes,Road Bikes,487,56346,66,74,74,2011-02-16,2012-12-18,147,High Performer,22,761.43,853,2561
+323,Road-650 Red- 60,Bikes,Road Bikes,487,40071,52,53,53,2011-01-31,2012-12-23,147,Mid-Range Performer,23,756.06,770,1742
+325,Road-650 Red- 62,Bikes,Road Bikes,487,57381,72,75,75,2011-01-27,2012-12-05,147,High Performer,23,765.08,796,2494
+327,Road-650 Red- 44,Bikes,Road Bikes,487,54528,66,72,72,2011-01-17,2012-12-25,147,High Performer,23,757.33,826,2370
+329,Road-650 Red- 48,Bikes,Road Bikes,487,66720,79,88,88,2011-01-22,2012-12-27,147,High Performer,23,758.18,844,2900
+331,Road-650 Red- 52,Bikes,Road Bikes,487,46083,59,61,61,2010-12-31,2012-12-21,147,Mid-Range Performer,24,755.46,781,1920
+333,Road-650 Black- 58,Bikes,Road Bikes,487,57996,71,76,76,2011-01-04,2012-12-18,147,High Performer,23,763.11,816,2521
+335,Road-650 Black- 60,Bikes,Road Bikes,487,57156,71,76,76,2011-02-02,2012-12-12,147,High Performer,22,752.05,805,2598
+337,Road-650 Black- 62,Bikes,Road Bikes,487,49047,63,65,65,2010-12-29,2012-12-18,147,Mid-Range Performer,24,754.57,778,2043
+339,Road-650 Black- 44,Bikes,Road Bikes,487,47565,60,63,63,2011-01-25,2012-12-26,147,Mid-Range Performer,23,755,792,2068
+341,Road-650 Black- 48,Bikes,Road Bikes,487,45552,57,60,60,2011-03-26,2012-12-25,147,Mid-Range Performer,21,759.2,799,2169
+343,Road-650 Black- 52,Bikes,Road Bikes,487,66915,85,89,89,2011-01-20,2012-12-19,147,High Performer,23,751.85,787,2909
+344,Mountain-100 Silver- 38,Bikes,Mountain Bikes,1912,197200,43,58,58,2010-12-30,2011-12-22,159,High Performer,12,3400,4586,16433
+345,Mountain-100 Silver- 42,Bikes,Mountain Bikes,1912,142800,38,42,42,2011-01-17,2011-12-28,159,High Performer,11,3400,3757,12981
+346,Mountain-100 Silver- 44,Bikes,Mountain Bikes,1912,166600,43,49,49,2010-12-29,2011-12-12,159,High Performer,12,3400,3874,13883
+347,Mountain-100 Silver- 48,Bikes,Mountain Bikes,1912,122400,34,36,36,2011-01-09,2011-12-23,159,High Performer,11,3400,3600,11127
+348,Mountain-100 Black- 38,Bikes,Mountain Bikes,1898,165375,44,49,49,2011-01-25,2011-12-27,159,High Performer,11,3375,3758,15034
+349,Mountain-100 Black- 42,Bikes,Mountain Bikes,1898,151875,40,45,45,2011-01-26,2011-12-27,159,High Performer,11,3375,3796,13806
+350,Mountain-100 Black- 44,Bikes,Mountain Bikes,1898,202500,53,60,60,2011-01-06,2011-12-21,159,High Performer,11,3375,3820,18409
+351,Mountain-100 Black- 48,Bikes,Mountain Bikes,1898,192375,53,57,57,2010-12-30,2011-12-26,159,High Performer,12,3375,3629,16031
+353,Mountain-200 Silver- 38,Bikes,Mountain Bikes,1266,1339394,377,583,596,2012-01-01,2013-12-28,135,High Performer,23,2247.31,3552,58234
+355,Mountain-200 Silver- 42,Bikes,Mountain Bikes,1266,1257368,372,547,560,2011-12-29,2013-12-28,135,High Performer,24,2245.3,3380,52390
+357,Mountain-200 Silver- 46,Bikes,Mountain Bikes,1266,1298709,365,566,579,2012-01-02,2013-12-28,135,High Performer,23,2243.02,3558,56465
+359,Mountain-200 Black- 38,Bikes,Mountain Bikes,1252,1292559,365,564,581,2011-12-29,2013-12-28,135,High Performer,24,2224.71,3541,53856
+361,Mountain-200 Black- 42,Bikes,Mountain Bikes,1252,1363128,383,604,614,2012-01-02,2013-12-28,135,High Performer,23,2220.08,3559,59266
+363,Mountain-200 Black- 46,Bikes,Mountain Bikes,1252,1373454,386,600,620,2011-12-29,2013-12-27,135,High Performer,24,2215.25,3558,57227
+368,Road-250 Red- 44,Bikes,Road Bikes,1519,351792,118,144,144,2011-12-31,2012-12-25,147,High Performer,12,2443,2981,29316
+369,Road-250 Red- 48,Bikes,Road Bikes,1519,395766,129,162,162,2011-12-31,2012-12-24,147,High Performer,12,2443,3067,32980
+370,Road-250 Red- 52,Bikes,Road Bikes,1519,324919,111,133,133,2011-12-31,2012-12-25,147,High Performer,12,2443,2927,27076
+372,Road-250 Red- 58,Bikes,Road Bikes,1555,702666,234,301,306,2011-12-29,2013-12-27,135,High Performer,24,2296.29,3002,29277
+374,Road-250 Black- 44,Bikes,Road Bikes,1555,628384,226,266,271,2011-12-29,2013-12-27,135,High Performer,24,2318.76,2780,26182
+376,Road-250 Black- 48,Bikes,Road Bikes,1555,691213,235,289,298,2012-01-01,2013-12-28,135,High Performer,23,2319.51,2941,30052
+378,Road-250 Black- 52,Bikes,Road Bikes,1555,734425,259,312,319,2011-12-30,2013-12-25,135,High Performer,24,2302.27,2835,30601
+380,Road-250 Black- 58,Bikes,Road Bikes,1555,622026,227,265,270,2011-12-31,2013-12-26,135,High Performer,24,2303.8,2740,25917
+382,Road-550-W Yellow- 38,Bikes,Road Bikes,713,293760,222,267,270,2011-12-30,2013-12-26,135,High Performer,24,1088,1323,12240
+384,Road-550-W Yellow- 40,Bikes,Road Bikes,713,289880,207,264,266,2012-01-07,2013-12-28,135,High Performer,23,1089.77,1400,12603
+386,Road-550-W Yellow- 42,Bikes,Road Bikes,713,334440,233,303,306,2011-12-29,2013-12-26,135,High Performer,24,1092.94,1435,13935
+388,Road-550-W Yellow- 44,Bikes,Road Bikes,713,312200,221,286,287,2012-01-02,2013-12-27,135,High Performer,23,1087.8,1412,13573
+390,Road-550-W Yellow- 48,Bikes,Road Bikes,713,283680,207,258,261,2012-02-07,2013-12-27,135,High Performer,22,1086.9,1370,12894
+463,Half-Finger Gloves- S,Clothing,Gloves,9,11688,271,478,487,2012-12-30,2014-01-25,134,Mid-Range Performer,13,24,43,899
+465,Half-Finger Gloves- M,Clothing,Gloves,9,11976,276,488,499,2012-12-30,2014-01-28,134,Mid-Range Performer,13,24,43,921
+467,Half-Finger Gloves- L,Clothing,Gloves,9,10632,257,437,443,2012-12-29,2014-01-28,134,Mid-Range Performer,13,24,41,817
+471,Classic Vest- S,Clothing,Vests,24,10944,140,168,171,2012-12-31,2014-01-28,134,Mid-Range Performer,13,64,78,841
+472,Classic Vest- M,Clothing,Vests,24,12736,149,199,199,2013-01-03,2014-01-27,134,Mid-Range Performer,12,64,85,1061
+473,Classic Vest- L,Clothing,Vests,24,12480,150,195,195,2013-01-02,2014-01-28,134,Mid-Range Performer,12,64,83,1040
+474,Women's Mountain Shorts- S,Clothing,Shorts,26,21280,210,304,304,2013-01-17,2014-01-28,134,Mid-Range Performer,12,70,101,1773
+475,Women's Mountain Shorts- M,Clothing,Shorts,26,24640,216,352,352,2013-01-10,2014-01-26,134,Mid-Range Performer,12,70,114,2053
+476,Women's Mountain Shorts- L,Clothing,Shorts,26,25410,238,363,363,2013-01-11,2014-01-28,134,Mid-Range Performer,12,70,106,2117
+477,Water Bottle - 30 oz.,Accessories,Bottles and Cages,2,21245,396,4073,4249,2012-12-28,2014-01-28,134,Mid-Range Performer,13,5,53,1634
+478,Mountain Bottle Cage,Accessories,Bottles and Cages,4,20340,387,2004,2034,2012-12-28,2014-01-28,134,Mid-Range Performer,13,10,52,1564
+479,Road Bottle Cage,Accessories,Bottles and Cages,3,15399,367,1699,1711,2012-12-28,2014-01-25,134,Mid-Range Performer,13,9,41,1184
+480,Patch Kit/8 Patches,Accessories,Tires and Tubes,1,6378,388,2948,3189,2012-12-30,2014-01-28,134,Low-Performer,13,2,16,490
+481,Racing Socks- M,Clothing,Socks,3,2682,211,295,298,2013-01-07,2014-01-28,134,Low-Performer,12,9,12,223
+482,Racing Socks- L,Clothing,Socks,3,2430,185,269,270,2012-12-30,2014-01-27,134,Low-Performer,13,9,13,186
+483,Hitch Rack - 4-Bike,Accessories,Bike Racks,45,39240,215,324,327,2013-01-09,2014-01-28,134,Mid-Range Performer,12,120,182,3270
+484,Bike Wash - Dissolver,Accessories,Cleaners,3,7272,348,875,909,2013-01-01,2014-01-28,134,Low-Performer,12,8,20,606
+485,Fender Set - Mountain,Accessories,Fenders,8,46662,389,2110,2121,2012-12-29,2014-01-28,134,Mid-Range Performer,13,22,119,3589
+486,All-Purpose Bike Stand,Accessories,Bike Stands,59,39591,191,243,249,2012-12-28,2014-01-28,134,Mid-Range Performer,13,159,207,3045
+487,Hydration Pack - 70 oz.,Accessories,Hydration Packs,21,40315,325,719,733,2012-12-31,2014-01-28,134,Mid-Range Performer,13,55,124,3101
+488,Short-Sleeve Classic Jersey- S,Clothing,Jerseys,42,21924,245,402,406,2012-12-30,2014-01-28,134,Mid-Range Performer,13,54,89,1686
+489,Short-Sleeve Classic Jersey- M,Clothing,Jerseys,42,21978,253,404,407,2012-12-29,2014-01-27,134,Mid-Range Performer,13,54,86,1690
+490,Short-Sleeve Classic Jersey- L,Clothing,Jerseys,42,20196,228,372,374,2012-12-30,2014-01-26,134,Mid-Range Performer,13,54,88,1553
+491,Short-Sleeve Classic Jersey- XL,Clothing,Jerseys,42,22086,245,405,409,2013-01-02,2014-01-28,134,Mid-Range Performer,12,54,90,1840
+528,Mountain Tire Tube,Accessories,Tires and Tubes,2,15465,383,2958,3093,2012-12-28,2014-01-28,134,Mid-Range Performer,13,5,40,1189
+529,Road Tire Tube,Accessories,Tires and Tubes,1,9500,389,2225,2375,2012-12-28,2014-01-28,134,Low-Performer,13,4,24,730
+530,Touring Tire Tube,Accessories,Tires and Tubes,2,7435,367,1410,1487,2012-12-28,2014-01-28,134,Low-Performer,13,5,20,571
+535,LL Mountain Tire,Accessories,Tires and Tubes,9,21550,336,828,862,2013-01-01,2014-01-28,134,Mid-Range Performer,12,25,64,1795
+536,ML Mountain Tire,Accessories,Tires and Tubes,11,34800,356,1160,1160,2012-12-29,2014-01-28,134,Mid-Range Performer,13,30,97,2676
+537,HL Mountain Tire,Accessories,Tires and Tubes,13,48860,374,1395,1396,2012-12-28,2014-01-28,134,Mid-Range Performer,13,35,130,3758
+538,LL Road Tire,Accessories,Tires and Tubes,8,21903,352,1029,1043,2012-12-28,2014-01-28,134,Mid-Range Performer,13,21,62,1684
+539,ML Road Tire,Accessories,Tires and Tubes,9,23125,343,890,925,2012-12-29,2014-01-28,134,Mid-Range Performer,13,25,67,1778
+540,HL Road Tire,Accessories,Tires and Tubes,12,28314,343,820,858,2012-12-28,2014-01-28,134,Mid-Range Performer,13,33,82,2178
+541,Touring Tire,Accessories,Tires and Tubes,11,27115,340,920,935,2012-12-28,2014-01-25,134,Mid-Range Performer,13,29,79,2085
+560,Touring-2000 Blue- 60,Bikes,Touring Bikes,755,98415,74,81,81,2012-12-30,2013-12-28,135,High Performer,12,1215,1329,8201
+561,Touring-1000 Yellow- 46,Bikes,Touring Bikes,1482,410048,133,170,172,2013-01-05,2013-12-28,135,High Performer,11,2384,3083,37277
+562,Touring-1000 Yellow- 50,Bikes,Touring Bikes,1482,359984,125,150,151,2012-12-31,2013-12-23,135,High Performer,12,2384,2879,29998
+563,Touring-1000 Yellow- 54,Bikes,Touring Bikes,1482,376672,127,158,158,2013-01-23,2013-12-27,135,High Performer,11,2384,2965,34242
+564,Touring-1000 Yellow- 60,Bikes,Touring Bikes,1482,333760,120,140,140,2013-01-02,2013-12-23,135,High Performer,11,2384,2781,30341
+565,Touring-3000 Blue- 54,Bikes,Touring Bikes,461,40810,52,55,55,2012-12-30,2013-12-17,135,Mid-Range Performer,12,742,784,3400
+566,Touring-3000 Blue- 58,Bikes,Touring Bikes,461,42294,54,57,57,2013-01-10,2013-12-27,135,Mid-Range Performer,11,742,783,3844
+567,Touring-3000 Blue- 62,Bikes,Touring Bikes,461,47488,56,64,64,2013-01-31,2013-12-23,135,Mid-Range Performer,11,742,848,4317
+568,Touring-3000 Yellow- 44,Bikes,Touring Bikes,461,43778,52,59,59,2013-01-30,2013-12-28,135,Mid-Range Performer,11,742,841,3979
+569,Touring-3000 Yellow- 50,Bikes,Touring Bikes,461,43778,53,59,59,2013-01-03,2013-12-27,135,Mid-Range Performer,11,742,826,3979
+570,Touring-3000 Yellow- 54,Bikes,Touring Bikes,461,35616,44,48,48,2013-01-29,2013-12-09,135,Mid-Range Performer,11,742,809,3237
+571,Touring-3000 Yellow- 58,Bikes,Touring Bikes,461,34874,42,47,47,2012-12-28,2013-12-27,135,Mid-Range Performer,12,742,830,2906
+572,Touring-3000 Yellow- 62,Bikes,Touring Bikes,461,37100,45,50,50,2013-01-20,2013-12-26,135,Mid-Range Performer,11,742,824,3372
+573,Touring-1000 Blue- 46,Bikes,Touring Bikes,1482,421968,129,177,177,2012-12-28,2013-12-23,135,High Performer,12,2384,3271,35164
+574,Touring-1000 Blue- 50,Bikes,Touring Bikes,1482,357600,130,150,150,2012-12-31,2013-12-28,135,High Performer,12,2384,2750,29800
+575,Touring-1000 Blue- 54,Bikes,Touring Bikes,1482,381440,121,160,160,2013-01-01,2013-12-27,135,High Performer,11,2384,3152,34676
+576,Touring-1000 Blue- 60,Bikes,Touring Bikes,1482,350448,125,147,147,2012-12-30,2013-12-27,135,High Performer,12,2384,2803,29204
+577,Touring-2000 Blue- 46,Bikes,Touring Bikes,755,117855,81,97,97,2012-12-28,2013-12-27,135,High Performer,12,1215,1455,9821
+578,Touring-2000 Blue- 50,Bikes,Touring Bikes,755,128790,91,106,106,2012-12-29,2013-12-27,135,High Performer,12,1215,1415,10732
+579,Touring-2000 Blue- 54,Bikes,Touring Bikes,755,106920,77,88,88,2013-01-07,2013-12-28,135,High Performer,11,1215,1388,9720
+580,Road-350-W Yellow- 40,Bikes,Road Bikes,1083,418446,175,246,246,2012-12-29,2013-12-27,135,High Performer,12,1701,2391,34870
+581,Road-350-W Yellow- 42,Bikes,Road Bikes,1083,399735,160,235,235,2012-12-28,2013-12-27,135,High Performer,12,1701,2498,33311
+582,Road-350-W Yellow- 44,Bikes,Road Bikes,1083,367416,160,216,216,2013-01-03,2013-12-27,135,High Performer,11,1701,2296,33401
+583,Road-350-W Yellow- 48,Bikes,Road Bikes,1083,394632,169,232,232,2012-12-31,2013-12-25,135,High Performer,12,1701,2335,32886
+584,Road-750 Black- 58,Bikes,Road Bikes,344,180360,219,334,334,2012-12-30,2013-12-28,135,High Performer,12,540,823,15030
+585,Touring-3000 Blue- 44,Bikes,Touring Bikes,461,39326,49,53,53,2013-01-11,2013-12-28,135,Mid-Range Performer,11,742,802,3575
+586,Touring-3000 Blue- 50,Bikes,Touring Bikes,461,35616,43,48,48,2013-01-09,2013-12-23,135,Mid-Range Performer,11,742,828,3237
+587,Mountain-400-W Silver- 38,Bikes,Mountain Bikes,420,113812,119,148,148,2013-01-05,2013-12-27,135,High Performer,11,769,956,10346
+588,Mountain-400-W Silver- 40,Bikes,Mountain Bikes,420,98432,108,128,128,2012-12-29,2013-12-24,135,High Performer,12,769,911,8202
+589,Mountain-400-W Silver- 42,Bikes,Mountain Bikes,420,99201,111,129,129,2013-01-07,2013-12-27,135,High Performer,11,769,893,9018
+590,Mountain-400-W Silver- 46,Bikes,Mountain Bikes,420,106122,113,138,138,2013-01-08,2013-12-24,135,High Performer,11,769,939,9647
+591,Mountain-500 Silver- 40,Bikes,Mountain Bikes,308,25425,41,45,45,2013-01-04,2013-12-26,135,Mid-Range Performer,11,565,620,2311
+592,Mountain-500 Silver- 42,Bikes,Mountain Bikes,308,25425,43,45,45,2013-01-01,2013-12-27,135,Mid-Range Performer,11,565,591,2311
+593,Mountain-500 Silver- 44,Bikes,Mountain Bikes,308,22035,38,39,39,2012-12-30,2013-12-25,135,Mid-Range Performer,12,565,579,1836
+594,Mountain-500 Silver- 48,Bikes,Mountain Bikes,308,28250,45,50,50,2013-01-16,2013-12-27,135,Mid-Range Performer,11,565,627,2568
+595,Mountain-500 Silver- 52,Bikes,Mountain Bikes,308,27120,43,48,48,2013-01-16,2013-12-25,135,Mid-Range Performer,11,565,630,2465
+596,Mountain-500 Black- 40,Bikes,Mountain Bikes,295,25920,46,48,48,2012-12-30,2013-12-13,135,Mid-Range Performer,12,540,563,2160
+597,Mountain-500 Black- 42,Bikes,Mountain Bikes,295,26460,47,49,49,2013-01-09,2013-12-25,135,Mid-Range Performer,11,540,562,2405
+598,Mountain-500 Black- 44,Bikes,Mountain Bikes,295,31320,51,58,58,2013-01-05,2013-12-25,135,Mid-Range Performer,11,540,614,2847
+599,Mountain-500 Black- 48,Bikes,Mountain Bikes,295,30240,55,56,56,2013-01-05,2013-12-26,135,Mid-Range Performer,11,540,549,2749
+600,Mountain-500 Black- 52,Bikes,Mountain Bikes,295,22140,40,41,41,2013-01-11,2013-12-24,135,Mid-Range Performer,11,540,553,2012
+604,Road-750 Black- 44,Bikes,Road Bikes,344,194400,230,360,360,2012-12-29,2013-12-28,135,High Performer,12,540,845,16200
+605,Road-750 Black- 48,Bikes,Road Bikes,344,196020,232,363,363,2012-12-30,2013-12-28,135,High Performer,12,540,844,16335
+606,Road-750 Black- 52,Bikes,Road Bikes,344,208440,230,386,386,2012-12-28,2013-12-28,135,High Performer,12,540,906,17370
